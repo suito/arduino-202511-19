@@ -1,3 +1,5 @@
+// アカウントを連結
+
 // ピンの設定
 const int LED_PIN = 8;
 const int BUTTON_PIN = 2;
